@@ -6,9 +6,7 @@ The learning strategy of EPILOGUE. a) An overview of EPILOGUE: Multiple biologic
 <!-- <div align=center>  
 <img src="flow.png" alt="epilogue" width="70%"/>
 </div> -->
-<center img>
 <img src="flow.png" width="70%" />
-</center>
 
 ## Dependencies
 EPILOGUE is tested to work under Python 3.10.8.
