@@ -26,6 +26,8 @@ git clone https://github.com/ZxyGed/EPILOGUE.git
 ```
 
 ## Usage
+The protein sequences are preprocessed by [ESM-1b](https://github.com/facebookresearch/esm), you can download the preprocessed features from [here](https://pan.baidu.com/s/1xxnXRND6YNFFxLKLZtVlFg?pwd=1234).
+
 To run EPILOGUE on yeast dataset by default, run the following command from the project directory:
 ```python 
 # generate representations by EPILOGUE
